@@ -2,6 +2,8 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
+#Author:Jesús Sanchez López y Néstor Santana Hernández
+
 
 # Environment size
 width = 5
